@@ -1,0 +1,5 @@
+menu "uart0"
+    config MY_uart0_ENABLE
+    bool "Enable my_com"
+    default "y"
+    endmenu
